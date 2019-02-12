@@ -35,7 +35,7 @@ Thank you very much for your time!!!
 
 ### Acknowledgment:
 
-This notebook is a personal extension of the post by Jose A. Dianes that you can find on the following link:
+This notebook could be considered as a personal extension of the post by Jose A. Dianes that you can find on the following link:
 https://www.codementor.io/jadianes/building-a-recommender-with-apache-spark-python-example-app-part1-du1083qbw
 
 Some of my contributions consist of:
