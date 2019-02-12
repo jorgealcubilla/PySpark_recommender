@@ -35,13 +35,13 @@ Thank you very much for your time!!!
 
 ### Acknowledgment:
 
-This notebook could be considered as a personal extension of the post by Jose A. Dianes that you can find on the following link:
+This project could be considered as a personal extension of the post by Jose A. Dianes that you can find on the following link:
 https://www.codementor.io/jadianes/building-a-recommender-with-apache-spark-python-example-app-part1-du1083qbw
 
 Some of my contributions consist of:
 
 - Data Prepocessing (see '3.Data Prepocessing' section)
-- Showing some functionalities of the ALS from Spark.ml (see '3.2) Quick look at the model (ALS)' section).
+- Showing some functionalities of ALS from Spark.ml (see '3.2) Quick look at the model (ALS)' section).
 - Hyperparameters tuning using a cross_validated grip seach strategy (see '3.3) Hyperparameters tuning' section).
 - Additional evaluation metrics (Recall and MAP) for model testing purposes (see '4.2) Additional metrics: Recall and MAP' section).
 - Using data_frames (in addition to RDDs) and SQL code.
