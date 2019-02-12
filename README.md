@@ -29,7 +29,7 @@ For the implementation of this project, we will use the notebook included in thi
 6) CONCLUSIONS
 7) ACKNOWLEDGMENTS
 
-I hope this notebook helps to make PySpark more understandable.
+I hope this notebook helps to make PySpark more understandable.<br>
 Thank you very much for your time!!!
 
 
